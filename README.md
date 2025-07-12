@@ -1,30 +1,25 @@
 # PromptPilot
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+## what is PromptPilot?
+PromptPilot is a powerful AI prompt generation and execution platform that helps you create, refine, and execute high-quality prompts across multiple Large Language Model (LLM) providers.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/umeshthetechie-7822s-projects/v0-prompt-pilot-lite-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/olDDqtDmpS4)
+## Key Benefits
+Generate multiple prompt variations instantly
+Support for OpenAI, Anthropic, Google, and xAI
+Real-time cost tracking and usage analytics
+Secure API key management with encryption
+Session history and prompt management
 
-## Overview
+## Getting Started
+Choose Your AI Provider
+Get Your API Key
+Configure Settings
+Start Creating
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## Capabile of
+1. Prompt Generation
+2. Prompt Execution
+3. Review and Manage
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/umeshthetechie-7822s-projects/v0-prompt-pilot-lite-app](https://vercel.com/umeshthetechie-7822s-projects/v0-prompt-pilot-lite-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/olDDqtDmpS4](https://v0.dev/chat/projects/olDDqtDmpS4)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## project is live at:
+***[https://vercel.com/umeshthetechie-7822s-projects/v0-prompt-pilot-lite-app](https://vercel.com/umeshthetechie-7822s-projects/v0-prompt-pilot-lite-app)**
